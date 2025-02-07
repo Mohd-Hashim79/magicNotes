@@ -1,1 +1,2 @@
 # magicNotes
+"Magic Notes" is an AI-powered tool designed primarily for social workers, allowing them to record conversations with clients, automatically transcribe them, and generate detailed summaries or case notes instantly, significantly reducing administrative time spent on paperwork while maintaining accurate documentation; essentially, it "magically" creates comprehensive assessments from recorded meetings with minimal manual input.
